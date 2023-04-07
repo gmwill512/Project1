@@ -1,0 +1,18 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
+
+.dataContainer{
+  display: flex;
+  flex-direction: row;
+}
+
+.title{
+  font-size: 30px;
+  width: 700px;
+  text-align: center;
+}
